@@ -2,6 +2,7 @@
 
 //css,elm,key,mid,fop,lop,run
 //red,mac,lex
+//https://github.com/gnjo/MaDaM/blob/master/mdm.core.js
 //css
 ;(function(root){
  let md={}
